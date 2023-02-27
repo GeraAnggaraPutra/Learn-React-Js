@@ -1,6 +1,6 @@
 import React from 'react'
 import Produk from '../Class/Produk'
-import Blog from './Blog'
+// import Blog from './Blog'
 
 const Home = () => {
   return (
